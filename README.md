@@ -39,6 +39,6 @@ If you're not an experienced developer we don't recommend changing stuff in the 
 
 ### Buy Me A Coffee :coffee:
 BTC - 37vr1wMWdAkvph6JAzf622UmnzGYumU4Mq
-ETH - 0xba30137fb2Ba34074457847b4B91Cb8C4F368c19
+
 
 
